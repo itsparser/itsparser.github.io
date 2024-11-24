@@ -3,34 +3,25 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
+I specialize in developing AI agents and machine learning models, with expertise in natural language processing, computer vision, and predictive analytics. My experience extends to integrating these AI capabilities into web and mobile applications, creating seamless and intelligent user experiences.
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I am passionate about building ethical, transparent, and impactful AI systems. When I'm not coding, you can find me contributing to open-source AI projects, mentoring aspiring developers, or writing about the latest trends in the tech industry. I also provide software consulting services through [Leval.ai](https://leval.ai), helping businesses leverage AI to solve real-world challenges and drive innovation.
 
-## Features
+### Tech Stack
 
-Here are certain features of this site.
+- **Programming Languages:** Python, JavaScript, Rust
+- **Frameworks/Libraries:** LangChain, React, Streamlit
+- **Databases:** Neo4j, MongoDB
+- **Specializations:** AI/ML model development, Natural Language Processing, Automation systems
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+### Features
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- Open-source contributor with a focus on AI and automation tools
+- Developer of intelligent, scalable, and user-friendly solutions
+- Advocate for ethical and transparent AI systems
+
+Your can connect with me on  [email](mailto:mail@itsparser.in), [LinkedIn](https://www.linkedin.com/in/k-vasanth-kumar/), [X](https://x.com/itsparser), [BlueSky](https://bsky.app/profile/itsparser.bsky.social), [Discord](https://discord.gg/itsparser),  [Reddit](https://www.reddit.com/user/itsparser/).
