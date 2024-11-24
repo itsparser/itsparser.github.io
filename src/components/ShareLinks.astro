@@ -1,6 +1,7 @@
 ---
 import LinkButton from "./LinkButton.astro";
 import socialIcons from "@assets/socialIcons";
+import { SOCIALS } from "@config";
 
 const URL = Astro.url;
 
@@ -42,7 +43,7 @@ const shareLinks = [
   <span class="italic">Share this post on:</span>
   <div class="text-center">
     {
-      shareLinks.map(social => (
+      SOCIALS.filter(social => social.active).map(social => (
         <LinkButton
           href={`${social.href + URL}`}
           className="link-button"
