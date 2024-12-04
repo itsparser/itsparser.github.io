@@ -37,7 +37,7 @@ PvP taught me adaptability, staying calm under pressure, and thinking on my feet
 
 ## Gaming as Problem-Solving
 
-![image.png](https://file.notion.so/f/f/8c96da24-d7a6-439f-9a85-03eefbe9c828/ac8fd327-33d7-4161-b1b8-52b92a987d22/image.png?table=block&id=14d39512-9b46-8095-aa3f-d06810c89dc8&spaceId=8c96da24-d7a6-439f-9a85-03eefbe9c828&expirationTimestamp=1733385600000&signature=an999ikexdXm9TGMtKYZlchGhGOvTG5pThNtA7IUq7I&downloadName=image.png)
+![image.png](https://file.notion.so/f/f/8c96da24-d7a6-439f-9a85-03eefbe9c828/ef25784f-5929-41fd-8252-b91541fa53b2/image.png?table=block&id=15239512-9b46-80d8-8867-c776d92aa053&spaceId=8c96da24-d7a6-439f-9a85-03eefbe9c828&expirationTimestamp=1733385600000&signature=kwxUF3ndB00p1WgzVZtEZtOI3_eFbh1n0Njky8FAZhg&downloadName=image.png)
 
 One of the key lessons that gaming taught me is how to approach problems systematically. Games like **Portal**, **The Legend of Zelda**, and even puzzle games like **Tetris** required me to think logically, make quick decisions, and solve problems one step at a time.
 
