@@ -1,5 +1,6 @@
 ---
 pubDatetime: 2024-12-01T20:58:52.737Z
+modDatetime: 2024-12-04T09:59:05Z
 title: From Gaming to Software Engineering
 slug: from-gaming-to-software-engineering
 featured: true
