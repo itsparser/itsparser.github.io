@@ -3,7 +3,7 @@ pubDatetime: 2024-12-01T20:58:52.737Z
 title: From Gaming to Software Engineering
 slug: from-gaming-to-software-engineering
 featured: true
-draft: true
+draft: false
 tags:
   - game
   - personal-development
@@ -19,6 +19,12 @@ When people think about gaming, they often see it as just a pastime—a way to u
 In this blog, I want to share how my love for games equipped me with the skills needed to succeed as a Staff Software Engineer. Whether it was problem-solving, embracing failure, collaborating with others, or learning to adapt quickly, gaming turned out to be the perfect training ground for my career in tech.
 
 ![image.png](https://file.notion.so/f/f/8c96da24-d7a6-439f-9a85-03eefbe9c828/fbbd6f48-a7d3-4646-8c4a-d02f7bf5ba25/image.png?table=block&id=14d39512-9b46-80df-9f16-eaa87ca77566&spaceId=8c96da24-d7a6-439f-9a85-03eefbe9c828&expirationTimestamp=1733385600000&signature=TQM8JstVq076rI7xU4pPeG9juTn55FopstrCvs9r2wM&downloadName=image.png)
+
+[//]: # (## Quick abbreviation)
+
+[//]: # (  - PvP - Player vs Player, where players compete against each other)
+
+[//]: # (  - PvE - Player vs Environment, where players battle against challenges designed by the game)
 
 ## What is PvP and PvE
 
@@ -46,9 +52,9 @@ Software engineering is no different—failure is an integral part of the proces
 
 ## Collaboration is Key
 
-While single-player games taught me problem-solving, multiplayer games like **World of Warcraft** and **Overwatch** taught me the importance of collaboration and communication. Success in these games often depends on your team's ability to work together toward a common goal.
+While single-player games taught me problem-solving, multiplayer games like **Dota** and **Ghost Recon Phantoms** taught me the importance of collaboration and communication. Success in these games often depends on your team's ability to work together toward a common goal.
 
-In **World of Warcraft**, leading a raid or coordinating with a group requires understanding everyone's strengths and weaknesses, and communicating clearly under pressure. This directly translated to how I approach working with teams today—as a Staff Software Engineer, I need to work closely with colleagues, product managers, and designers to ensure our efforts align.
+In **Dota**, leading a raid or coordinating with a group requires understanding everyone's strengths and weaknesses, and communicating clearly under pressure. This directly translated to how I approach working with teams today—as a Staff Software Engineer, I need to work closely with colleagues, product managers, and designers to ensure our efforts align.
 
 ## Rapid Learning and Adaptation
 
@@ -92,8 +98,12 @@ Hours of gaming can lead to a sedentary lifestyle, which is something to be mind
 
 ## Conclusion
 
-Gaming has shaped me in ways that go far beyond entertainment. It taught me how to solve problems, embrace failure, work collaboratively, learn quickly, and think creatively. These skills have all been instrumental in my journey as a Staff Software Engineer.
+Gaming has shaped me in ways that go far beyond entertainment. It taught me how to solve problems, embrace failure, work collaboratively, learn quickly, and think creatively. These skills have all been instrumental in my journey as a Staff Software Engineer. 
+
+Meanwhile, I will also encourage all people to take up outdoor games as a way to stay active and healthy. It's a great way to get some exercise and enjoy the outdoors.
 
 To anyone who thinks gaming is just a waste of time, I offer a different perspective. Gaming can be a powerful training ground—a place to develop skills that are directly applicable to the real world. For me, it was the perfect preparation for a career in software engineering. And who knows? The next time you pick up a controller, you might just be leveling up more than your character.
 
-`NOTE: Thanks to my friend [Ruhaya Sithara](https://www.linkedin.com/in/ruhaya-sithara-636150134/) for encouraging me to write this blog.`
+Nothing is useless in life, and gaming is no exception. It's a great way to stay active, learn new skills, and have fun.
+
+NOTE: Thanks to my friend [Ruhaya Sithara](https://www.linkedin.com/in/ruhaya-sithara-636150134/) for encouraging me to write this blog.
